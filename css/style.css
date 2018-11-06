@@ -1,0 +1,10 @@
+* {
+    background-color: black;
+    font-family: 'Bai Jamjuree', sans-serif;
+    text-align: center;
+    box-sizing: border-box;
+    color: white;
+}
+p {
+  color: deeppink;
+}
