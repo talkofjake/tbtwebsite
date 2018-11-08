@@ -8,3 +8,27 @@
 p {
   color: deeppink;
 }
+.jake:hover {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+.rob:hover {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+.ryan:hover {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+.navbar {
+    color: deeppink;
+}
+.navbar-default {
+    color: deeppink;
+}
+.navbar-fixed-top {
+    color: deeppink;
+}
+li {
+    color: deeppink;
+}
