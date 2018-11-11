@@ -6,6 +6,8 @@ This website's purpose is to market TBT. A one stop shop for all of the bands so
 
 Github - https://github.com/talkofjake/tbtwebsite.git
 
+website - https://talkofjake.github.io/tbtwebsite/
+
 Files used in this project:
 
 index.html
