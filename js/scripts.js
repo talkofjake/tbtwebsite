@@ -1,4 +1,5 @@
-function greeting(){
+
+function greeting() {
     alert('Hello! We are Throwback Thursday. Louisville pop punk party band!')
     alert('For booking information, contact Rob Saag at tbtlouisville@gmail.com');
 }
